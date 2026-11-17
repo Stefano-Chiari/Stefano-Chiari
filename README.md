@@ -1,11 +1,11 @@
-## Hi, I'm Stefano 👋
+## Hi, I'm Stefano 
 
 MSc student in **High Performance Computing Engineering** at Politecnico di Milano, with a BSc in Mathematical Engineering.
 I like the mathematical side of computing: numerical methods, optimisation, inverse problems and statistical learning.
 
-🎓 Looking for a **master's thesis in a company from February/March 2027**, on optimisation, data-driven modelling or scientific computing.
-📍 Varese area, Italy. Open to Lombardy and Ticino (Switzerland).
-📫 [LinkedIn](https://www.linkedin.com/in/stefano-chiari-293264200/) · steto.chiari@gmail.com
+- Looking for a **master's thesis in a company from February/March 2027**, on optimisation, data-driven modelling or scientific computing.
+- Varese area, Italy. Open to Lombardy and Ticino (Switzerland).
+- [LinkedIn](https://www.linkedin.com/in/stefano-chiari-293264200/) · steto.chiari@gmail.com
 
 ---
 
