@@ -23,7 +23,7 @@ Varese area, Italy. Open to Lombardy and Ticino (Switzerland).
 | [Inside the Cell](https://github.com/Stefano-Chiari/InsideTheCell) | Educational game on viral infection with LLM-generated dialogues and hand tracking (Multidisciplinary Project) | TypeScript, Phaser, Gemini API |
 | [Parallel Monte Carlo integration](https://github.com/AMSC-24-25/09-mc-09-mc) | My first MSc team project: standard, stratified and Metropolis–Hastings integrators on n-dimensional domains; Ising model; simulated annealing | C++17, threads, Eigen, CMake |
 
-All projects were developed in teams for Politecnico di Milano courses. Each repository describes my own contribution.
+All projects were developed in teams for Politecnico di Milano courses.
 
 ### Tools
 C++ · Python · MATLAB · deal.II · CUDA (basic) · Git · Linux
